@@ -1,5 +1,5 @@
-# Executando a Aplicação Backend do Chat
-Este backend utiliza o framework **Quart** para disponibilizar endpoints que extraem dados de repositórios e realizam interações de chat com essas informações.
+# Executando a Aplicação Backend do Chatbot 
+O backend desta aplicação utiliza o framework **Quart** para disponibilizar endpoints que extraem dados de repositórios e realizam interações de chat com essas informações.
 
 ## Pré-requisitos
 - Verifique se você possui **Python 3.6** ou superior instalado. Para confirmar a versão instalada, utilize:
